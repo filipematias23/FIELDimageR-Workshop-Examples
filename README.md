@@ -12,13 +12,15 @@
 
 ## Hands-On:
 
-> * **Example 01** (Potato Growth Cycle - UAV/RGB): [https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-01](https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-01)
+> * **Example 01** [(Potato Growth Cycle - UAV/RGB)](https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-01)
 > 
-> * **Example 02** (Potato Flowering Stage - Hyperspectral): [https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-02](https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-02)
+> * **Example 02** [(Potato Flowering Stage - Hyperspectral)](https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-02)
 > 
-> * **Example 03** (Counting Green Seeds - Soybean): [https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-03](https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-03)
+> * **Example 03** [(Counting Green Seeds - Soybean)](https://filipematias23.github.io/FIELDimageR-Workshop-11/#example-03)
 > 
-> * **Example 04** (Evaluating Leaf Disease - Tomato): [https://filipematias23.github.io/FIELDimageR-Workshop-6/#example-02](https://filipematias23.github.io/FIELDimageR-Workshop-6/#example-02)
+> * **Example 04** [(Evaluating Leaf Disease - Tomato)](https://filipematias23.github.io/FIELDimageR-Workshop-6/#example-02)
+
+<br />
 
 > Launch the Binder button below to open a virtual RStudio (running this tutorial online):
 
