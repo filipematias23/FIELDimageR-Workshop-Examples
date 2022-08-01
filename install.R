@@ -1,4 +1,5 @@
 install.packages("sp")
+install.packages("terra")
 install.packages("raster")
 install.packages("rgdal")
 install.packages("ggplot2")
