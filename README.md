@@ -24,6 +24,12 @@
 
 > Launch the Binder button below to open a virtual RStudio (running this tutorial online):
 
+Example: 01, 02, and 03
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/filipematias23/FIELDimageR-Workshop-11.git/master?urlpath=rstudio)
+
+Example: 04
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/filipematias23/FIELDimageR-Workshop-Examples.git/master?urlpath=rstudio)
 
 <br />
